@@ -23,3 +23,7 @@
 ## 8°PASSO
 ### Digitar o comando:
 ## "git push -u origin main" para enviar as alterações para o GitHub.
+## 9°PASSO
+### Usar codigo:
+## "Git pull"
+### Para atualizar as mudanças à maquina local, pois quando o arquivo é mudado no GitHub, a máquina local fica desatualizada.
